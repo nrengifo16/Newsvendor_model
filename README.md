@@ -1,3 +1,3 @@
 # Newsvendor_model
 
-In this project it was implemented the newsvendor model. A database of weekly sales is used, we find the actual number of units of an specific product that needs to be requested in order to minimize the trade off cost between overstock and understock.
+This article consists in the application of a mathematical model used to determine the optimal inventory levels for a nightclub. The model in case is the Newsvendor Model, in which the classical mathematical structure will be taken into consideration and then put in context for said nightclub. The resulting objective function will be minimized under specified considerations thus presenting the optimal inventory function. Historical data of certain products is then used to determine the statistical distributions that fits the data and then, optimal inventory is estimated (minimizing the trade off cost between overstock and understock.).
